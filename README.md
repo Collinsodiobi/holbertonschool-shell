@@ -1,7 +1,4 @@
-# Shell Permissions Project
+# IO Redirections and Filters
 
-## 0-iam_betty
-This script switches the current user to betty.
-It contains exactly 2 lines:
-- #!/bin/bash
-- su betty
+## 0-hello_world
+This script prints "Hello, World" followed by a new line to the standard output.
